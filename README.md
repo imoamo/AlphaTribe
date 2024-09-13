@@ -25,7 +25,7 @@ Ensure you have the following installed:
 
 - **Node.js** (v14+)
 - **MongoDB** (local or cloud)
-- **Firebase** (for image/file storage)
+- **MongoDB credentials** (username/password)
 
 ---
 
