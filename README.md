@@ -172,9 +172,8 @@ Sample Response:
 
 ### Endpoint: GET /api/posts
 
-Query Parameters:
+Query Parameters:stockSymbol=AAPL&tags=technology&sortBy=date
 
-stockSymbol=AAPL&tags=technology&sortBy=date
 Sample Response:
 
 ```json
