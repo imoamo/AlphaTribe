@@ -51,7 +51,7 @@ Ensure you have the following installed:
 ## 🧑‍💻 User Authentication & Management
 ### Register a User
 
-Endpoint: POST /api/auth/register
+### Endpoint: POST /api/auth/register
 
 Request Body:
 
