@@ -172,7 +172,7 @@ Sample Response:
 
 ### Endpoint: GET /api/posts
 
-Query Parameters:stockSymbol=AAPL&tags=technology&sortBy=date
+Query Parameters ::=> stockSymbol=AAPL&tags=technology&sortBy=date
 
 Sample Response:
 
